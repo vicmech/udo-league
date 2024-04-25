@@ -24,6 +24,7 @@ export default function Results(){
                 <ResultCard/>
                 <ResultCard/>
                 <ResultCard/>
+                <ResultCard/>
                 <ResultCard/>  
             </div>
         </div>

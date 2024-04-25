@@ -11,7 +11,7 @@ export default function Header(){
                 <div class='h-1/2 bg-main-blue align-middle text-start pl-24 text-white text-3xl leading-10'>UDO LEAGUE</div>
                 <nav class='h-1/2 flex flex-row justify-center items-center bg-white'>
                     <ul class='h-1/2 w-full px-20 flex flex-row justify-center items-center justify-around text-2xl text-grayText'>
-                        <li class='decoration-4 hover:underline decoration-main-blue'>Inicio</li>
+                        <li class='decoration-4 hover:underline decoration-main-blue'><a href="/">Inicio</a></li>
                         <li class='decoration-4 hover:underline decoration-main-blue'>Tabla</li>
                         <li ><a href="#teams" class='decoration-4 hover:underline decoration-main-blue'>Equipos</a></li>
                     </ul>

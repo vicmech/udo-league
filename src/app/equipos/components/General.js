@@ -2,7 +2,7 @@ import React from "react";
 
 export default function General(){
     return(
-        <section class='h-3/4 px-9 py-4 flex flex-row justify-between pb-6 snap-start'>
+        <section class='h-3/4 px-9 py-4 flex flex-row justify-between pb-6 snap-start' id='General'>
             <div class='w-1/3 h-full px-14'>
                 <div class='h-12'>
                     <span class='text-3xl'>General</span>
@@ -10,7 +10,7 @@ export default function General(){
                 <div class='h-full'>
                     <div class='h-2/5'>
                         <div class='bg-blue-text w-full h-3/4'>
-                            <img class='h-full w-auto mx-auto py-2' src="/static/images/barcelona-logo.png" alt="" />
+                            <img class='h-full w-auto mx-auto py-2' src="/static/images/teams-logos/RucioMoroFC-logo-white.png" alt="" />
                         </div>
                         <div class='flex flex-row justify-between items-center h-1/4 w-full bg-main-blue pl-3 pr-5'>
                             <span class='text-white text-xl'>Posición</span>
@@ -76,7 +76,7 @@ export default function General(){
                     <span>Goleadores</span>
                 </div>
                 <div class='relative h-full pb-12'>
-                    <img class='z-10 absolute w-24 top-16 left-5' src="/static/images/barcelona-logo.png" alt="" />
+                    <img class='z-10 absolute w-24 top-16 left-5' src="/static/images/teams-logos/RucioMoroFC-logo-white.png" alt="" />
                     <div class='relative h-2/6 bg-blue-text flex justify-center items-center overflow-hidden'>
                         <img class='w-2/5 -ml-10 mt-20' src="/static/images/cards-23-24_dembele.png" alt="" />
                 
@@ -113,14 +113,14 @@ export default function General(){
                     </div>
                     <div class='text-white text-xl flex flex-row justify-center items-center w-full h-1/2 pb-20'>
                         <div class='w-2/5 flex flex-col justify-center p-4'>
-                            <img class='h-40' src="/static/images/barcelona-logo.png" alt="" />
+                            <img class='h-40' src="/static/images/teams-logos/RucioMoroFC-logo-white.png" alt="" />
                             <span class='text-center'>Jujuy</span>
                         </div>
                         <div class='w-1/5 text-4xl'>
                             <span>2 - 1</span>
                         </div>
                         <div class='w-2/5 flex flex-col justify-center p-4'>
-                            <img class='h-40' src="/static/images/real-madrid-logo.webp" alt="" />
+                            <img class='h-40' src="/static/images/teams-logos/CantinerosFC-logo.png" alt="" />
                             <span class='text-center'>Parrilleros</span>
                         </div>
                     </div>

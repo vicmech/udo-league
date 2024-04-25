@@ -8,7 +8,7 @@ import Teams from "./components/home/Teams";
 
 export default function Home() {
   return (
-    <React.Fragment class='snap-y'>
+    <React.Fragment>
       <div class='h-full'>
         <Header/>
         <Welcome/>
